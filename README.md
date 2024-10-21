@@ -13,7 +13,7 @@
 ## 🗃 Textbooks
 
  - [Python Tutorial](https://github.com/Daniel-Astaptscev/Personal-tutorial/tree/main/Python%20Tutorial)
- - [SQL Tutorial]()
- - [CSS3 Tutorial]()
- - [JavaScript Tutorial]()
- - [HTML5 Tutorial]()
+ - [SQL Tutorial (empty)]()
+ - [CSS3 Tutorial (empty)]()
+ - [JavaScript Tutorial (empty)]()
+ - [HTML5 Tutorial (empty)]()
